@@ -1,1 +1,3 @@
 # Skyppid
+
+[![Skyppid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyppid)](https://github.com/anuraghazra/github-readme-stats)
