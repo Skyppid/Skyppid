@@ -21,3 +21,4 @@ jobs:
           SHOW_OS: true
           SHOW_EDITORS: true
           SHOW_SHORT_INFO: true
+          SHOW_PROJECTS: false
