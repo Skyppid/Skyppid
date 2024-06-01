@@ -2,8 +2,6 @@
 
 .NET Developer for over 18 years. 
 
-[![wakatime](https://wakatime.com/badge/user/a9bc58b8-5a82-4919-ba9c-d9eac48b1e74.svg)](https://wakatime.com/@a9bc58b8-5a82-4919-ba9c-d9eac48b1e74)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C021%20hrs%2049%20mins-blue)
 
