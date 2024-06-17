@@ -3,17 +3,17 @@
 .NET Developer for over 18 years. 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C062%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C065%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 10.1 kB Used in GitHub's Storage 
  > 
-> 🏆 501 Contributions in the Year 2024
+> 🏆 511 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,21 +24,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5796 commits        ████████░░░░░░░░░░░░░░░░░   30.31 % 
-🌆 Daytime                12072 commits       ████████████████░░░░░░░░░   63.13 % 
-🌃 Evening                1186 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-🌙 Night                  67 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+🌞 Morning                5236 commits        ████████░░░░░░░░░░░░░░░░░   30.39 % 
+🌆 Daytime                10859 commits       ████████████████░░░░░░░░░   63.02 % 
+🌃 Evening                1076 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+🌙 Night                  61 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   3301 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-Tuesday                  4048 commits        █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-Wednesday                3271 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Thursday                 5541 commits        ███████░░░░░░░░░░░░░░░░░░   28.98 % 
-Friday                   2832 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Saturday                 101 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Sunday                   27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Monday                   3005 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Tuesday                  3652 commits        █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+Wednesday                2961 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Thursday                 4941 commits        ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+Friday                   2555 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Saturday                 93 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Sunday                   25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 
 
@@ -79,7 +79,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Skyppid/Skyppid/master/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2024 18:43:24 UTC
+ Last Updated on 17/06/2024 18:43:34 UTC
 <!--END_SECTION:waka-->
 
 [![Skyppid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyppid)](https://github.com/anuraghazra/github-readme-stats)
