@@ -48,15 +48,14 @@ Sunday                   27 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       3 hrs 24 mins       ████████████████████████░   94.62 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+C#                       1 hr 40 mins        ████████████████████████░   97.23 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🔥 Editors: 
-Jetbrainsrider           3 hrs 36 mins       █████████████████████████   100.00 % 
+Jetbrainsrider           1 hr 43 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 43 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -74,7 +73,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Skyppid/Skyppid/master/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2024 18:46:56 UTC
+ Last Updated on 10/08/2024 18:44:56 UTC
 <!--END_SECTION:waka-->
 
 [![Skyppid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyppid)](https://github.com/anuraghazra/github-readme-stats)
