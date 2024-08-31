@@ -48,13 +48,13 @@ Sunday                   31 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Jetbrainsrider           6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -72,7 +72,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Skyppid/Skyppid/master/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2024 18:48:55 UTC
+ Last Updated on 31/08/2024 18:46:32 UTC
 <!--END_SECTION:waka-->
 
 [![Skyppid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyppid)](https://github.com/anuraghazra/github-readme-stats)
