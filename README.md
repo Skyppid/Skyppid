@@ -3,7 +3,7 @@
 .NET Developer for over 18 years. 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C244%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C245%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -12,8 +12,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 11.2 kB Used in GitHub's Storage 
- > 
-> 🏆 795 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,16 +46,13 @@ Sunday                   22 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       3 hrs 14 mins       ██████████████████████░░░   89.56 % 
-JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+C#                       15 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Jetbrainsrider           3 hrs 17 mins       ███████████████████████░░   90.87 % 
-WebStorm                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Jetbrainsrider           15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -75,7 +70,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Skyppid/Skyppid/master/assets/bar_graph.png)
 
 
- Last Updated on 19/12/2024 18:53:13 UTC
+ Last Updated on 20/12/2024 18:54:48 UTC
 <!--END_SECTION:waka-->
 
 [![Skyppid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyppid)](https://github.com/anuraghazra/github-readme-stats)
