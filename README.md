@@ -13,8 +13,6 @@
 
 > 📦 11.2 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -72,7 +70,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Skyppid/Skyppid/master/assets/bar_graph.png)
 
 
- Last Updated on 05/01/2025 18:49:38 UTC
+ Last Updated on 06/01/2025 18:53:41 UTC
 <!--END_SECTION:waka-->
 
 [![Skyppid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyppid)](https://github.com/anuraghazra/github-readme-stats)
