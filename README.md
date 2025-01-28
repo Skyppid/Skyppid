@@ -3,7 +3,7 @@
 .NET Developer for over 18 years. 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C276%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C277%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -13,7 +13,7 @@
 
 > 📦 11.3 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2025
+> 🏆 18 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,16 +48,16 @@ Sunday                   21 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       12 hrs 42 mins      ████████████████████████░   95.26 % 
+C#                       11 hrs 52 mins      ██████████████████████░░░   89.06 % 
+YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 TypeScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+XML                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-Rider                    12 hrs 48 mins      ████████████████████████░   95.99 % 
+Rider                    12 hrs 46 mins      ████████████████████████░   95.71 % 
 VS Code                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-WebStorm                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+WebStorm                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 💻 Operating System: 
 Windows                  13 hrs 20 mins      █████████████████████████   100.00 % 
@@ -78,7 +78,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Skyppid/Skyppid/master/assets/bar_graph.png)
 
 
- Last Updated on 27/01/2025 18:54:51 UTC
+ Last Updated on 28/01/2025 18:52:14 UTC
 <!--END_SECTION:waka-->
 
 [![Skyppid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyppid)](https://github.com/anuraghazra/github-readme-stats)
