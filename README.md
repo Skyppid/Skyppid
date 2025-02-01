@@ -3,7 +3,7 @@
 .NET Developer for over 18 years. 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C280%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C282%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -11,7 +11,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 11.3 kB Used in GitHub's Storage 
+> 📦 11.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,18 +46,18 @@ Sunday                   17 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       8 hrs 36 mins       ██████████████████████░░░   89.12 % 
-YAML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-XML                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Csproj                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+C#                       7 hrs 21 mins       ██████████████████████░░░   88.25 % 
+YAML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Csproj                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-Rider                    9 hrs 36 mins       █████████████████████████   99.62 % 
-WebStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Rider                    8 hrs 17 mins       █████████████████████████   99.56 % 
+WebStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 Operating System: 
-Windows                  9 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -75,7 +75,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Skyppid/Skyppid/master/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2025 18:49:36 UTC
+ Last Updated on 01/02/2025 18:47:35 UTC
 <!--END_SECTION:waka-->
 
 [![Skyppid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyppid)](https://github.com/anuraghazra/github-readme-stats)
