@@ -3,7 +3,7 @@
 .NET Developer for over 18 years. 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C347%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C350%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,18 +48,16 @@ Sunday                   18 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-C#                       3 hrs 42 mins       ████████████████████░░░░░   79.06 % 
-TypeScript               50 mins             █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Csproj                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+C#                       3 hrs 31 mins       ████████████████████████░   96.54 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Csproj                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-Rider                    3 hrs 49 mins       ████████████████████░░░░░   81.75 % 
-WebStorm                 51 mins             █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Rider                    3 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -77,7 +75,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Skyppid/Skyppid/master/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2025 18:50:31 UTC
+ Last Updated on 06/05/2025 18:52:45 UTC
 <!--END_SECTION:waka-->
 
 [![Skyppid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyppid)](https://github.com/anuraghazra/github-readme-stats)
